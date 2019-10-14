@@ -47,7 +47,7 @@ let directors = [
   },
   {
     name: 'Edward Zwick',
-    movies: ['Jack Reacher: Never Go Back', 'Blood Diamon', 'The Siege']
+    movies: ['Jack Reacher: Never Go Back', 'Blood Diamond', 'The Siege']
   }
 ]
 
